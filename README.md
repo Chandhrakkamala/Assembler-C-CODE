@@ -1,1 +1,3 @@
-# Assembler-C-CODE
+# Assembler CODE
+This code will convert the assembly language of the HACK computer. (A computer used in the course named "Build a Modern Computer from First Principles: From Nand to Tetris: Project-Centered Course" authorized by Hebrew University of Jerusalem and offered through Coursera)
+It takes the assembly language instruction and converts it to binary numbers using the specified format for the opcode. The final product is an assembler(written in a high-level programming language - C++) which converts any code written in HACK assembly language including labels and symbols to binary numbers. The machine language generated was run in the simulator provided by the course and the output was observed using the GUI of the simulator.
